@@ -1,5 +1,3 @@
-# httpexemplo
-
 # HTTPClient
 
 Decrição
